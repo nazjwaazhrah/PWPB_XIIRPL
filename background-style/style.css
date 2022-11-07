@@ -1,0 +1,18 @@
+body{
+    background-color: lightslategrey;
+}
+.back-img{
+    background-image: url(../1.png);
+    width: 500px;
+    height: 500px;
+    color: yellow
+}
+
+.posisi {
+    background-image: url(../1.png);
+    width: 500px;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
